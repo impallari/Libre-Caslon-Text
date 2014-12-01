@@ -2,7 +2,7 @@ Libre Caslon Text Fonts
 ======================
 
 Libre Caslon Text is optimized for web body text (typically set at 16px).
-Libre Caslon Display is optimized for Headlines.
+[Libre Caslon Display](https://github.com/impallari/Libre-Caslon-Display/) is optimized for Headlines.
 
 There are already lots of digital Caslon's revivals, and lots of Caslon-esque fonts. Some are very good. But none of them was truly made for the web. While they look very good when printed on paper, they render very small when used for web body text on the screen.
 
