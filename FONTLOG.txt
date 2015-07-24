@@ -43,7 +43,7 @@ Tuareg/Berber, Turkish, Turkmen, Tuvaluan, Uzbek/Usbek, Wallisian, Walloon,
 Welsh, Xhosa, Yoruba, Zulu.
 
 Join the project at:
-http://www.impallari.com/projects/overview/libre-caslon-display-and-text
+https://github.com/impallari/Libre-Caslon-Text
 
 Documentation can be found at www.impallari.com
 
@@ -51,10 +51,13 @@ To contribute to the project contact Pablo Impallari at impallari@gmail.com
 
 ChangeLog
 
+27 Jul 2015 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Text v1.001
+- Removed RFN
+- Rehinted using latest ttfautohint version (v1.3)
+
 14 Mar 2013 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon Text v1.00
 - Ikerned and TTF Hinted
 - Added Tabular Numbers
-
 
 07 Mar 2013 (Pablo Impallari, Rodrigo Fuenzalida) Libre Caslon v0.34
 - Completed charset on the Text styles
