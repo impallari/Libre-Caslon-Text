@@ -10,7 +10,7 @@ This was a captivating subject to investigate. Caslon was the very first alphabe
 
 So, insted of making just another revival of the types of William Caslon, we preffered to pay homage to 60's lettering artist's caslon interpretations. And that's how Libre Caslon become different to all other caslons. (Not better or worse, just different.)
 
-We also decided to make 2 size specific subfamilies:
+We also decided to make two size-specific subfamilies:
 - [Libre Caslon Display](https://github.com/impallari/Libre-Caslon-Display/), a sexy caslon for big headlines.
 - And [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text/), specifically optimized for web body text.
 
